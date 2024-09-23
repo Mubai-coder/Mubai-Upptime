@@ -4,8 +4,7 @@ repo: Mubai-Upptime # The name of this repository
 
 sites:
   - name: Mubai
-    url: https://main.mubai.me
-    port: 15241
+    url: https://main.mubai.me:15241/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
