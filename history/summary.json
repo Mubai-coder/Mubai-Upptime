@@ -1,22 +1,22 @@
 [
   {
     "name": "Mubai",
-    "url": "https://main.mubai.me",
+    "url": "https://main.mubai.me:15241/",
     "icon": "https://icons.duckduckgo.com/ip3/main.mubai.me.ico",
     "slug": "mubai",
-    "status": "down",
-    "uptime": "85.72%",
-    "uptimeDay": "85.72%",
-    "uptimeWeek": "85.72%",
-    "uptimeMonth": "85.72%",
-    "uptimeYear": "85.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "13.07%",
+    "uptimeDay": "13.07%",
+    "uptimeWeek": "13.07%",
+    "uptimeMonth": "13.07%",
+    "uptimeYear": "13.07%",
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {
-      "2024-09-23": 0
+      "2024-09-23": 4
     }
   }
 ]
