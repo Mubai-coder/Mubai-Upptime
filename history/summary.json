@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/main.mubai.me.ico",
     "slug": "mubai",
     "status": "up",
-    "uptime": "13.07%",
-    "uptimeDay": "13.07%",
-    "uptimeWeek": "13.07%",
-    "uptimeMonth": "13.07%",
-    "uptimeYear": "13.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 768,
     "timeDay": 768,
     "timeWeek": 768,
     "timeMonth": 768,
     "timeYear": 768,
-    "dailyMinutesDown": {
-      "2024-09-23": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
