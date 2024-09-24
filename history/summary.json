@@ -4,17 +4,19 @@
     "url": "https://main.mubai.me:15241/",
     "icon": "https://icons.duckduckgo.com/ip3/main.mubai.me.ico",
     "slug": "mubai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 886,
-    "timeDay": 886,
+    "timeDay": 830,
     "timeWeek": 886,
     "timeMonth": 886,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   }
 ]
